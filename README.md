@@ -1,2 +1,3 @@
-# PiJam2025
-Pi Jam Kochi 2025
+# Raspberry Pi Jam 2025
+
+Landing Page for Raspberry Pi Jam 2025
